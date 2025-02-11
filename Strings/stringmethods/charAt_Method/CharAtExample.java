@@ -17,5 +17,6 @@ public class CharAtExample {
         // Trying to access an index out of the string's range will throw an exception
         // Uncommenting the following line will cause StringIndexOutOfBoundsException
         // char charAtInvalidIndex = str.charAt(20);
+        //hello.......
     }
 }
